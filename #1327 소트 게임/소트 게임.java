@@ -17,6 +17,7 @@ public class Main {
         }
 
         String result = bfs(arr, n, k);
+
         System.out.println(result);
     }
 
@@ -76,15 +77,6 @@ public class Main {
         Node(int[] arr, int depth) {
             this.arr = arr;
             this.depth = depth;
-        }
-
-        @Override
-        public String toString() {
-            StringBuilder sb = new StringBuilder();
-            for (int num : arr) {
-                sb.append(num);
-            }
-            return sb.toString();
         }
     }
 }
