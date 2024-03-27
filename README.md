@@ -23,6 +23,7 @@
 <br>
 
 # 💌 현재 티어
-![image](https://github.com/hayannn/CodingTest_Java/assets/102213509/5f70f990-224f-464e-91f2-3197ca2bbe78)
+
+<img width="743" alt="image" src="https://github.com/hayannn/CodingTest_Java_NKLCBHub/assets/102213509/be05c498-9460-4cdd-afae-36dfdeda9993">
 
 ---
